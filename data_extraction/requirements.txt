@@ -1,0 +1,23 @@
+# fastapi>=0.115,<1
+# uvicorn[standard]>=0.30,<1
+# pydantic>=2.8,<3
+# openai>=1.50,<3
+# langchain-openai>=0.2,<2
+# python-dotenv>=1,<2
+
+
+# fastapi>=0.115,<1
+# uvicorn[standard]>=0.30,<1
+# pydantic>=2.8,<3
+# langchain-core>=1.0,<2
+# langchain-google-genai>=4.0,<5
+# python-dotenv>=1,<2
+
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.20,<1
+pydantic>=2.8,<3
+langchain-core>=1.0,<2
+langchain-google-genai>=4.0,<5
+pypdf>=5,<7
+python-dotenv>=1,<2
