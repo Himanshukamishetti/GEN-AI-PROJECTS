@@ -1,4 +1,4 @@
-# ✨ Generative AI Take-Home Projects
+# ✨ Generative AI Projects
 
 Two independent, runnable projects:
 
